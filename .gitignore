@@ -1,0 +1,8 @@
+*.code-workspace
+*.pyc
+__pycache__
+.coverage
+.pytest_cache
+.vscode
+credentials.json
+token.pickle
