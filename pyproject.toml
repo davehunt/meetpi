@@ -5,7 +5,7 @@ description = "Google Calendar meeting status indicator for Raspberry Pi + Blink
 authors = ["Dave Hunt <dave.hunt@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.7"
 blinkt = { version = "^0.1.2", markers = "sys_platform == 'linux'" }
 google-api-python-client = "^1.12.8"
 google-auth-httplib2 = "^0.0.4"
