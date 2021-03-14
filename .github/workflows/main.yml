@@ -2,7 +2,7 @@ name: main
 on: [push, pull_request]
 
 jobs:
-  ci:
+  main:
     strategy:
       fail-fast: false
       matrix:
