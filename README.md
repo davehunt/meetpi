@@ -10,6 +10,12 @@ meetpi is a [Raspberry Pi](https://www.raspberrypi.org/) project that uses a [Bl
 
 The easiest way to run meetpi is to use [poetry](https://python-poetry.org/), which manages the virtual environment and dependencies. You can install poetry by following this [installation guide](https://python-poetry.org/docs/#installation).
 
+Once you have poetry you will need to create the virtual environment and install the dependencies by running:
+
+```
+poetry install
+```
+
 You will need to tell meetpi which calendar to check for your availability. To find out your calendar ID follow these steps:
 
 * Open [Google Calendar](https://calendar.google.com/) in your web browser.
