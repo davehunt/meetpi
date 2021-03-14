@@ -10,7 +10,7 @@ try:
     import blinkt
 
     blinkt_present = True
-except ImportError, RuntimeError:
+except (ImportError, RuntimeError):
     blinkt_present = False
 
 from dateutil.parser import isoparse
