@@ -1,5 +1,7 @@
 # meetpi
 
+![meetpi workflow](https://github.com/davehunt/meetpi/actions/workflows/main.yml/badge.svg)
+
 ## Introduction
 
 In the 10+ years I've been working from home, I've found the most challenging times are when my kids aren't at school and I need to be in a meeting. I have a door hanger that I can flip, which lets everyone in the house know to keep the noise down, but wouldn't it be cool if I could have a bright status light that integrates directly with my calendar?
